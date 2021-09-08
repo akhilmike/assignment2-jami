@@ -13,4 +13,5 @@ Goa is in southeren part of India . **it's my favourite place of all time.**  Th
    1. Once we land in Goa Airport , It's near 50 kms to Goa city .
    2. So, take a cab to Goa City .
    3. Check in Some Hotel .
-4.Return from Goa to Chicago and then take a flight to Kansas from Chicago Airport .
+4. Return from Goa to Chicago and then take a flight to Kansas from Chicago Airport .
+
