@@ -22,3 +22,7 @@ Goa is in southeren part of India . **it's my favourite place of all time.**  Th
   * Instant Noodles
   * Beans and some vegetables
 * Cloths and pair of shoes .
+
+---
+
+[About me](https://github.com/akhilmike/assignment2-jami/blob/main/About%20Me.md)
