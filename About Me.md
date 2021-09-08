@@ -15,3 +15,9 @@
    | Cashew     | Boom     | 0.5 $  |
 
    ---
+
+   # PithyQuotes
+
+   > The purpose of our lives is to be happy.     *Dalai Lama*
+
+   > Life is what happens when you're busy making other plans.  *John Lenno*
