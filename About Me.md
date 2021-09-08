@@ -3,3 +3,15 @@
 
 
  ![My picture](/Akhil1.jpg?raw=true)
+
+ # FoodAndDrinks
+   The Below Table Give Information of drinks and food available in different places near me at the good price.<br> Please refer below table and select your choice.
+
+   | Food/Drink | Place    | Price  |
+   | ---------- | -------- | ------ |
+   | Beer       | Walmart  | 5 $    |
+   | Milk       | Hivee    | 1 $    |
+   | Chicken    | Chfill   | 9 $    |
+   | Cashew     | Boom     | 0.5 $  |
+
+   ---
