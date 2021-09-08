@@ -15,3 +15,10 @@ Goa is in southeren part of India . **it's my favourite place of all time.**  Th
    3. Check in Some Hotel .
 4. Return from Goa to Chicago and then take a flight to Kansas from Chicago Airport .
 
+* A Drone to shoot hight altitude videos .
+* A good Camera to take pictures .
+* Food Items 
+  * Burgers
+  * Instant Noodles
+  * Beans and some vegetables
+* Cloths and pair of shoes .
